@@ -1,0 +1,16 @@
+Mean (std) endo DM: ED: 0.9361 (0.07), ES: 0.9141 (0.07)
+Mean (std) endo HD: ED: 3.02 (2.19), ES: 3.16 (2.21)
+Mean (std) epi DM: ED: -1.0000 (-1.00), ES: -1.0000 (-1.00)
+Mean (std) epi HD: ED: -1.00 (-1.00), ES: -1.00 (-1.00)
+
+Total mean (std) endo DM: 0.9264 (0.07)
+Total mean (std) endo HD: 3.08 (2.18)
+Total mean (std) epi DM: -1.0000 (-1.00)
+Total mean (std) epi HD: -1.00 (-1.00)
+
+Endo area: R = 0.9955, a = 1.0325, b = 0.6703
+Epi area: R = -1.0000, a = -1.0000, b = -1.0000
+ED vol: R = 0.9869, a = 1.0470, b = 2.7988
+ES vol: R = 0.9967, a = 1.0207, b = 4.3835
+EF: R = 0.9987, a = 1.0314, b = -0.0369, mean (std) error = 0.0391 (0.02)
+vm: R = -1.0000, a = -1.0000, b = -1.0000, mean (std) error = -1.0000 (-1.00)
